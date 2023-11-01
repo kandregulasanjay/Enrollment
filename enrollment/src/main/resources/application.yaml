@@ -2,7 +2,7 @@ spring:
  datasource:
    url: jdbc:mysql://localhost:3306/enrollment?useSSL=false
    username: root
-   password: Sanjay123@
+   password: *****
 
 #JPA Settings
  jpa.hibernate.ddl_auto: create
